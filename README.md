@@ -1,4 +1,4 @@
-# site-for-import-new
+# site-for-import-new. Описание порядка действий
 1. создать локальный репозиторий
 2. cоздать файл .gitignore
 3. Внести изменения в .gitignore
