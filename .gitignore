@@ -1,0 +1,18 @@
+*Неотслеживаемые файлы
+tmp
+/tmp
+index.html_old
+_backup
+*_backup
+Thumbs.db
+.DS_Store
+\tmp
+*_old
+
+*tmp
+*/tmp
+*index.html_old
+*_backup
+*Thumbs.db
+*.DS_Store
+*\tmp
